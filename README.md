@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm not "HIM" 😆</h1>
+<h1 align="center">Hi 👋, I'm Stalli0n_Engin33r</h1>
 <h3 align="center">an engineer in computer science with a strong interest in artificial intelligence. I am eager to deepen my understanding of AI and its potential applications in various fields. I also like to explore various subjects unrelated to AI because of excess of curiosity 🤷‍♂️.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
