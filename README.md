@@ -7,9 +7,6 @@
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGF5enF6OHp1aTZ5MWp0NXQwNnlwOHlmOGp6d2d2NWxlOHZwaXIwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pcmac1K2xdMoBpVWSw/giphy.gif" width = 300px>
 
-<br>
-<br>
-
 - 🌱 A small groing plant in **AI** related subjects (LLMs, CNNs, GNNs, MLPs ...).
           
 - 💻 I like to learn other random subjects (cyber security, medecine, ...), because why not. 😅
