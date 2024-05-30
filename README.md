@@ -2,8 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFD700&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Engineer;AI+Enthusiast;Always+learning+new+things"></a>
 </p>
-
-
 <br>
 
 ## <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdhcm9kNmdsdWV4dGd1dDFkdm0yNGt3dW9nYzRxbTd0bjZuMDVpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0hv8d4HrDVI6m7w7pF/giphy.gif" width = 50px> About me
