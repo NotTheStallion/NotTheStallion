@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm The_Stallion</h1>
 <h3 align="center">an engineer in computer science with a strong interest in artificial intelligence. I am eager to deepen my understanding of AI and its potential applications in various fields. I also like to explore various subjects unrelated to AI because of excess of curiosity 🤷‍♂️.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRnMmNwanpzMm90MXdiMm0xN2VlMDNhb3hybHk3bm5kYWdiZ3VqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2k0sUXCWw7WmY/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZoZnhtY2htOWdxeDZ5dGRuNTNyanVzNmR1YWsxemZicnBkZjNjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R0UrwHLnhwnlu/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NotTheStallion&label=Profile%20views&color=0e75b6&style=flat" alt="NotTheStallion" /> </p>
 
