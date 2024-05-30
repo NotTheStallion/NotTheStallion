@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm The_Stallion <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR6MXNrdGpvaDFjOTcwaHdhaDB4eXF2NDFtbzN5ejBmYmlzbXY3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OpBA2nKQog7LENz8Of/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm The_Stallion <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFD700&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Engineer;AI+Enthusiast;Always+learning+new+things"></a>
 </p>
