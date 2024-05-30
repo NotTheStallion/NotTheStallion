@@ -6,9 +6,9 @@
 
 <br>
 
-## <picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdhcm9kNmdsdWV4dGd1dDFkdm0yNGt3dW9nYzRxbTd0bjZuMDVpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0hv8d4HrDVI6m7w7pF/giphy.gif" width = 50px></picture> About me
+## <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdhcm9kNmdsdWV4dGd1dDFkdm0yNGt3dW9nYzRxbTd0bjZuMDVpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0hv8d4HrDVI6m7w7pF/giphy.gif" width = 50px> About me
 
-<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGF5enF6OHp1aTZ5MWp0NXQwNnlwOHlmOGp6d2d2NWxlOHZwaXIwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pcmac1K2xdMoBpVWSw/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGF5enF6OHp1aTZ5MWp0NXQwNnlwOHlmOGp6d2d2NWxlOHZwaXIwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pcmac1K2xdMoBpVWSw/giphy.gif" width = 300px> </picture>
 
 <br>
 <br>
