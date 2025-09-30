@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me <img src="https://komarev.com/ghpvc/?username=NotTheStallion&label=Profile%20views&color=0e75b6&style=flat" alt="NotTheStallion" />
 
 <br>
 
