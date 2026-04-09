@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohamed Aymane KHERRAZ <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Aymane KHERRAZ <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
